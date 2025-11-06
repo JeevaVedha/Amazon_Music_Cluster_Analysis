@@ -43,6 +43,7 @@ Visualize results interactively in Streamlit.
 
 
 ## 📂 Project Structure
+```
 Amazon_Music_Cluster_Analysis/
 │
 ├── Data/
@@ -51,6 +52,8 @@ Amazon_Music_Cluster_Analysis/
 ├── app.py                # Streamlit dashboard code
 ├── README.md             # Project documentation
 └── requirements.txt      # Python dependencies
+```
+
 
 ## ⚙️ Installation & Setup
 ### 1. Clone the repository
