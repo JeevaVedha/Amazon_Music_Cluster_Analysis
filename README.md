@@ -43,16 +43,18 @@ Visualize results interactively in Streamlit.
 
 
 ## 📂 Project Structure
-```
+
 Amazon_Music_Cluster_Analysis/
-│
-├── Data/
-│   └── single_genre_artists.csv
-│
-├── app.py                # Streamlit dashboard code
-├── README.md             # Project documentation
-└── requirements.txt      # Python dependencies
-```
+
+Data/ — dataset folder
+
+single_genre_artists.csv — main dataset
+
+Main.py — Streamlit dashboard code
+
+README.md — this documentation
+
+requirements.txt — Python dependencies
 
 
 ## ⚙️ Installation & Setup
